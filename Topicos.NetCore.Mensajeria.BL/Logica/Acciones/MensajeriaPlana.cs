@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Topicos.NetCore.Mensajeria.BL.Logica.Acciones
 {
-    class MensajeriaPlana
+    internal class MensajeriaPlana
     {
         /// <summary>
         /// para enviar mensajes
